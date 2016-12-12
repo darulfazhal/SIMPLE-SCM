@@ -1,10 +1,9 @@
   <!-- /.content-wrapper -->
   <footer class="main-footer">
     <div class="pull-right hidden-xs">
-      <b>Version</b> 2.3.8
+      <b>Version</b>1.0.0
     </div>
-    <strong>Copyright &copy; 2014-2016 .</strong> All rights
-    reserved.
+    <strong>Copyright &copy; <?php echo date('Y');?></strong>  
   </footer>
   <input type="hidden" id="group_id" value="<?php echo $_SESSION['group'];?>">
 </div>
